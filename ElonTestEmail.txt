@@ -1,0 +1,10 @@
+##THIS IS A SAMPLE TEST EMAIL FOR EmmAI
+##IT IS NOT REAL OF COURSE
+
+Dear Gregory,
+
+My name is Elon Musk and I wanted to know if you are available for consulting on an AI project?
+
+Sincerely,
+
+Elon
